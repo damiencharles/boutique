@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 </head>
 <body>
     
@@ -40,7 +41,7 @@ Faire l'équivalent du foreach au dessus mais via la méthode FETCH_CLASS
 
 <div class="container">
 
-    <h1>= BOUTIQUE =</h1>
+    <h1><i class="fas fa-store"></i></h1>
         <h2>Chaussures</h2>
             <div class="shoe">
             
