@@ -5,7 +5,7 @@ class Vetements
     public $prix;
     public $dispo;
 
-    public function __construct(int $prix,string $dispo)
+    public function __construct($prix,$dispo)
     {
         $this->prix = $prix;
         $this->dispo = $dispo;
